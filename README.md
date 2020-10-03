@@ -21,5 +21,5 @@ run `./generator` with the following options
 ## F.A.Q.
 
 ### Why not a Java Android app?
-I don't worship cows so I'm really handy with Android development. Also this program is meant as a quick and dirty utility with no time nor the desire to mess around GUI toolkits
+I don't worship 🐄 so I'm not really handy with Android development. Also this program is meant as a quick and dirty utility with no time nor the desire to mess around GUI toolkits
 
